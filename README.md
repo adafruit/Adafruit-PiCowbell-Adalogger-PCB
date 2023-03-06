@@ -20,6 +20,7 @@ Please Note! There are a lot of possible configurations, and we stock various he
 2. Use the Pico Socket Headers if you want to plug directly in and have a nice solid connection that doesn't have any poking-out-bits.
 3. Use the Short Socket Headers for a very slim but pluggable design; note that you'll want to trim down the Pico's headers or use the short plug headers on the Pico to have a skinny sandwich.
 4. Solder the PCB directly to the Pico headers - of course, this is very compact and inexpensive, but you won't be able to remove the PiCowbell.
+
 The PiCowbell Adalogger provides you with:
 
 * Right angle JST SH connector for I2C / Stemma QT / Qwiic connection. Provides 3V, GND, IO4 (SDA), and IO5 (SCL)
